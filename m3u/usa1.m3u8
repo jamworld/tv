@@ -7,8 +7,8 @@
 #EXTINF:-1,[COLOR yellow]--- US CHANNELS ---[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0,RIDDIM UP 38
-http://vimeo.com/126356992
+#EXTINF:0,[COLOR blue] JNN [/COLOR]
+http://univ-i.akamaihd.net/hls/live/222633/HLS11/chunklist.m3u8
 
 #EXTINF:0,[COLOR yellow] GOLD [/COLOR]
 plugin://plugin.video.vimeo/?action=play_video&amp;videoid=109553963?
