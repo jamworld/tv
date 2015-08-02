@@ -15,7 +15,7 @@ plugin://plugin.video.vimeo/?action=play_video&amp;videoid=109553963?
 wowzasessionid=1420171902
 
 #EXTINF:0,[COLOR yellow] TVJ [/COLOR]
-http://univ-i.akamaihd.net/hls/live/222630/HLS21/chunklist.m3u8
+http://univ-i.akamaihd.net/hls/live/222630/HLS21/chunklist.m3u8?
 
 #EXTINF:0,24/7 HD Movies 1
 http://93.174.95.125:1935/edge/_definst_/asn0crzhq351g0w/playlist.m3u8?wowzasessionid=1420171902
