@@ -8,7 +8,7 @@
 http://0.0.0.0:1234
 
 #EXTINF:0,RIDDIM UP 38
-https://vimeo.com/126356992
+http://vimeo.com/126356992
 
 #EXTINF:0,[COLOR yellow] GOLD [/COLOR]
 plugin://plugin.video.vimeo/?action=play_video&amp;videoid=109553963?
