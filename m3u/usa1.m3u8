@@ -10,9 +10,8 @@ http://0.0.0.0:1234
 #EXTINF:0,[COLOR blue] JNN [/COLOR]
 http://univ-i.akamaihd.net/hls/live/222633/HLS11/chunklist.m3u8
 
-#EXTINF:0,[COLOR yellow] GOLD [/COLOR]
-plugin://plugin.video.vimeo/?action=play_video&amp;videoid=109553963?
-wowzasessionid=1420171902
+#EXTINF:0,[COLOR green] ReTV[/COLOR]
+http://univ-i.akamaihd.net/hls/live/222631/HLS11/chunklist.m3u8
 
 #EXTINF:0,[COLOR yellow] TVJ [/COLOR]
 http://univ-i.akamaihd.net/hls/live/222630/HLS21/chunklist.m3u8?
