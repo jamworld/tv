@@ -17,6 +17,9 @@ rtmp://184.154.57.230/cbcvideo/cbcstream
 #EXTINF:0, group-title=\"Caribbean Channels\", ZNS TV Bahamas
 http://xznsbahamasx.api.channel.livestream.com/3.0/playlist.m3u8
 
+#EXTINF:0, group-title=\"Caribbean Channels\", GIS GRENADA
+rtmp://cdn6.iviplanet.com/GIS/_definst_/myStream.sdp
+
 #EXTINF:0, group-title=\"Caribbean Channels\", Ctv Trinidad & Tobago
 http://cnmg.live.cdn.bitgravity.com/cnmg/live/ctv
 
