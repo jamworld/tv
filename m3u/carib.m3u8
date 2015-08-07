@@ -32,7 +32,7 @@ rtmp://162.244.81.145:2163/live/livestream
 #EXTINF:0, group-title=\"Caribbean Channels\", Channel 5 St. Kitts & Nevis
 rtmp://162.244.81.145:2163/live//livestream
 
-#EXTINF:-1 group-title=\"Caribbean Channels\", ABS TV Antigua & Barbuda
+#EXTINF:0, group-title=\"Caribbean Channels\", ABS TV Antigua & Barbuda
 http://iphone-streaming.ustream.tv/ustreamVideo/18415531/streams/live/playlist.m3u8
 
 #EXTINF:0, group-title=\"Caribbean Channels\", CNC3 Trinidad & Tobago
