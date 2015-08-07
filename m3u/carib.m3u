@@ -424,8 +424,8 @@ rtmp://fs-aee3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000/fs-aee301000
 #EXTINF:-1,News New Jersey(Stream 1)
 rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
  
-#EXTINF:-1,News New Jersey(Weather)
+#EXTINF:0,News New Jersey(Weather)
 rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e3010000000000
  
-#EXTINF:-1,News Westchester(Stream 1)
+#EXTINF:0,News Westchester(Stream 1)
 rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
