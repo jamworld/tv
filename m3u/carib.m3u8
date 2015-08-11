@@ -429,3 +429,161 @@ rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e301000
  
 #EXTINF:0,News Westchester(Stream 1)
 rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
+
+
+#EXTINF:-1,US: CTH Stadium 1 (UK)
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1308.ts
+#EXTINF:-1,US: CTH Stadium 2 (UK)
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1181.ts
+#EXTINF:-1,US: CTH Stadium 3 (UK)
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1513.ts
+#EXTINF:-1,US: CTH Stadium 4 (UK)
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1323.ts
+#EXTINF:-1,US: CTH Stadium 5 (UK)
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/20.ts
+#EXTINF:-1,US: CTH Stadium 6 (UK)
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1754.ts
+#EXTINF:-1,US: Animal Planet HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1562.ts
+#EXTINF:-1,US: ABC NEWS HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1297.ts
+#EXTINF:-1,US: Bein Sports US HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1295.ts
+#EXTINF:-1,US: Discovery Channel HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1190.ts
+#EXTINF:-1,US: ESPN HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1296.ts
+#EXTINF:-1,US: Fox Sports 1 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1037.ts
+#EXTINF:-1,US: Fox Sports 2 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1042.ts
+#EXTINF:-1,US: NBA TV HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1512.ts
+#EXTINF:-1,US: NBC Sports Network HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1307.ts
+#EXTINF:-1,US: TSN 1 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1303.ts
+#EXTINF:-1,US: TSN 2 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1302.ts
+#EXTINF:-1,US: TSN 3 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1299.ts
+#EXTINF:-1,US: TSN 4 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1301.ts
+#EXTINF:-1,US: TSN 5 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1300.ts
+#EXTINF:-1,UK: ITV1 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/884.ts
+#EXTINF:-1,UK: ITV2 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/885.ts
+#EXTINF:-1,UK: ITV3 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/886.ts
+#EXTINF:-1,UK: ITV4 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/887.ts
+#EXTINF:-1,UK: BBC 1 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/859.ts
+#EXTINF:-1,UK: BBC 2 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/860.ts
+#EXTINF:-1,UK: BBC 3 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/861.ts
+#EXTINF:-1,UK: BBC 4 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/862.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/910.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/911.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/912.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/909.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/913.ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/914.ts
+#EXTINF:-1,UK: Sky One HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/908.ts
+#EXTINF:-1,UK: Sky News HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/907.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/906.ts
+#EXTINF:-1,UK: Sky Movies Action HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/898.ts
+#EXTINF:-1,UK: Sky Movies Family HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/902.ts
+#EXTINF:-1,UK: Sky Movies Drama HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/901.ts
+#EXTINF:-1,UK: Sky Movies Disney HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/900.ts
+#EXTINF:-1,UK: Sky Movies Comedy HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/899.ts
+#EXTINF:-1,UK: Sky Movies Premiere HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/904.ts
+#EXTINF:-1,UK: Sky Movies Modern Great HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/903.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi&Horror HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/905.ts
+#EXTINF:-1,UK: SyFy HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/918.ts
+#EXTINF:-1,UK: Sky Art 1
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/920.ts
+#EXTINF:-1,UK: Sky Art 2
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/921.ts
+#EXTINF:-1,UK: Sky Living HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/897.ts
+#EXTINF:-1,UK: Sky Two HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/915.ts
+#EXTINF:-1,UK: Sky Atlantic HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/896.ts
+#EXTINF:-1,UK: Sky Sports News HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1237.ts
+#EXTINF:-1,UK: MUTV HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1670.ts
+#EXTINF:-1,UK: Chelsea FC HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1672.ts
+#EXTINF:-1,UK: LIVERPOOL TV
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/878.ts
+#EXTINF:-1,UK: Box Nation HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/863.ts
+#EXTINF:-1,UK: BTSports 1 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/864.ts
+#EXTINF:-1,UK: BTSports 2 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/865.ts
+#EXTINF:-1,UK: Racing UK HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/892.ts
+#EXTINF:-1,UK: EuroSport 1 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/879.ts
+#EXTINF:-1,UK: Premier Sports HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/891.ts
+#EXTINF:-1,UK: Setanta Sports Ireland HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/895.ts
+#EXTINF:-1,UK: RTE Two HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/894.ts
+#EXTINF:-1,UK: RTE One HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/893.ts
+#EXTINF:-1,UK: MTV Hits HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/888.ts
+#EXTINF:-1,UK : E4
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1469.ts
+#EXTINF:-1,UK: Film 4 HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/881.ts
+#EXTINF:-1,UK: Channel4
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/866.ts
+#EXTINF:-1,UK: Nat Geo HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/889.ts
+#EXTINF:-1,UK: Nat Geo Wild HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/890.ts
+#EXTINF:-1,UK: True Movies 1
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1112.ts
+#EXTINF:-1,UK: HBO COMEDY HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1113.ts
+#EXTINF:-1,UK: History HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/883.ts
+#EXTINF:-1,UK: Nicktoons HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1633.ts
+#EXTINF:-1,UK: Nickelodeon HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/1632.ts
+#EXTINF:-1,UK: Disney Junior HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/874.ts
+#EXTINF:-1,UK: Discovery HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/870.ts
+#EXTINF:-1,UK: Discovery History HD
+http://iptv.euroremix.com:8000/live/Caribbean/Roots/871.ts
