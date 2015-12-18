@@ -1,70 +1,55 @@
 #EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]--- 29-07-2015 ---[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 29-07-2015--[/COLOR]  
 
-#EXTINF:-1,[COLOR yellow]--- US CHANNELS ---[/COLOR]
-http://0.0.0.0:1234
+#EXTINF:0, DIGICEL-SPORTSMAX
+http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
 
-#EXTINF:0, group-title=\"Caribbean Channels\", CineStream TV Barbados
-http://68.71.42.179/live/livestream1/playlist.m3u8
+#EXTINF:0, RECORD BRASIL 
+http://flash.midiaip.com.br:1935/tvvitoria/Sample1/live.m3u8
 
-#EXTINF:0, group-title=\"Caribbean Channels\", CBC TV Barbados
-http://184.154.57.230:1935/cbcvideo/cbcstream/playlist.m3u8
+#EXTINF:0, TVJ JAMAICA
+http://univ-i.akamaihd.net/hls/live/222630/HLS21/chunklist.m3u8?
 
-#EXTINF:0, group-title=\"Caribbean Channels\", CBC TV Channel 8 Barbados
-rtmp://184.154.57.230/cbcvideo/cbcstream
+#EXTINF:0, CNS 6 GUYANA
+rtmp://cdbLgf.live.cloud.influxis.com:80/cdbLgf/_definst_/cns6
 
-#EXTINF:0, group-title=\"Caribbean Channels\", ZNS TV Bahamas
-http://xznsbahamasx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, DBS ST. LUCIA
+http://52.2.232.142:1935/live/dbstv/playlist.m3u8
 
-#EXTINF:0, group-title=\"Caribbean Channels\", Ctv Trinidad & Tobago
-http://cnmg.live.cdn.bitgravity.com/cnmg/live/ctv
+#EXTINF:0, GTV GHANA
+http://wpc.12BC9.kappacdn.net/hls-live/2012BC9/default/GhanaTV/ghanatv_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
 
-#EXTINF:0, group-title=\"Caribbean Channels\", TV 4 Trinidad & Tobago
-rtsp://gisl.live-s.cdn.bitgravity.com/cdn-live/_definst_/gisl/live/feed01?width=720&height=480&AutoPlay=true&nc=1
+#EXTINF:0, GIS GRENADA 
+rtmp://cdn6.iviplanet.com/GIS/_definst_/myStream.sdp
 
-#EXTINF:0, group-title=\"Caribbean Channels\", Channel 5 St. Kitts & Nevis
-rtmp://162.244.81.145:2163/live//livestream
+#EXTINF:0, GBN GRENADA 
+rtmp://38.96.175.122:1951/live/livestream 
 
-#EXTINF:0, group-title=\"Caribbean Channels\", Channel 5 St. Kitts & Nevis
-rtmp://162.244.81.145:2163/live/livestream
+#EXTINF:0, MTV GRENADA
+rtmp://38.96.175.122:1937/live/livestream
 
-#EXTINF:0, group-title=\"Caribbean Channels\", Channel 5 St. Kitts & Nevis
-rtmp://162.244.81.145:2163/live//livestream
+#EXTINF:0,PLUS TV BELIZE
+http://iphone-streaming.ustream.tv/ustreamVideo/6108416/streams/live/playlist.m3u8
 
-#EXTINF:0, group-title=\"Caribbean Channels\", ABS TV Antigua & Barbuda
-http://iphone-streaming.ustream.tv/ustreamVideo/18415531/streams/live/playlist.m3u8
+#EXTINF:0, JNN JAMAICA
+http://univ-i.akamaihd.net/hls/live/222633/HLS11/chunklist.m3u8
 
-#EXTINF:0, group-title=\"Caribbean Channels\", CNC3 Trinidad & Tobago
-rtmp://live.cnc3.co.tt:1935/livepkgr/livestream
-
-#EXTINF:0, group-title=\"Caribbean Channels\", Beyond The Tape Trinidad & Tobago
-http://cdn.bimvid.com/TV6/aa6fb73c0054508914f898e3f2d494f5ac964e48_fl9.mp4
-
-#EXTINF:0, group-title=\"Caribbean Channels\", Jamaica News
-http://rjr_flash-lh.akamaihd.net/i/jnn_1@177149/master.m3u8
-
-#EXTINF:0, group-title=\"Caribbean Channels\", TV Jamaica
-http://rjr_flash-lh.akamaihd.net/i/tvj_1@177150/master.m3u8
-
-#EXTINF:0, group-title=\"Caribbean Channels\", CNS Channel 6 Guyana
-rtmp://184.173.181.2:1935/8262/8262
-
-#EXTINF:0, group-title=\"Caribbean Channels\", Reggae Entertainment Television
-http://rjr_flash-lh.akamaihd.net/i/retv_1@177154/master.m3u8
-
-#EXTINF:0, group-title=\"Caribbean Channels\", TEMPO
-rtmp://cp101680.live.edgefcs.net:1935/live/tempolive@5028
-
-#EXTINF:0, group-title=\"Caribbean Channels\", TEMPO (2)
-#rtmp://cp101680.live.edgefcs.net:1935/live playpath=tempolive@5028 swfUrl=http://admin.brightcove.com/viewer/us20150212.1539/federatedVideoUI/BrightcovePlayer.swf live=1 pageUrl=http://gottempo.com
-
-#EXTINF:0, group-title=\"Caribbean Channels\", Barbados Parliament
-rtmp://fls.7.c3.audiovideoweb.com/lv/6c3flslive2019
+#EXTINF:0, ReTV JAMAICA
+http://univ-i.akamaihd.net/hls/live/222631/HLS11/chunklist.m3u8
 
 
 
+#EXTINF:0, CVMTV JAMAICA
+http://cdnvideo.webvideocore.net/live3ch/out_1vrjj9gj19b4co004os43/index.m3u8
 
+
+#EXTINF:0, MTMT TV JAMAICA
+rtmp://media.btbn.tv/mtmtv/live
+
+#EXTINF:0,WIN TV TRINIDAD
+http://104.130.121.19:1935/winhdtt/livestream/playlist.m3u8
+
+#EXTINF:0,CTV6TV TRINIDAD
+http://cf.cdn.bimvidlive.com/tv6/ngrp:tv61_all/playlist.m3u8
 
 #EXTINF:0, CineStream TV Barbados
 http://68.71.42.179/live/livestream1/playlist.m3u8
@@ -73,10 +58,40 @@ http://68.71.42.179/live/livestream1/playlist.m3u8
 http://184.154.57.230:1935/cbcvideo/cbcstream/playlist.m3u8
 
 #EXTINF:0, CBC TV Channel 8 Barbados
-rtmp://184.154.57.230/cbcvideo playpath=cbcstream
+rtmp://184.154.57.230/cbcvideo/cbcstream
 
 #EXTINF:0, ZNS TV Bahamas
 http://xznsbahamasx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:0, Ctv Trinidad & Tobago
+http://cnmg.live.cdn.bitgravity.com/cnmg/live/ctv
+
+#EXTINF:0, CNC3 Trinidad & Tobago
+rtmp://live.cnc3.co.tt:1935/livepkgr/livestream
+
+#EXTINF:0, TV 4 Trinidad & Tobago
+rtsp://gisl.live-s.cdn.bitgravity.com/cdn-live/_definst_/gisl/live/feed01?width=720&height=480&AutoPlay=true&nc=1
+
+#EXTINF:0, Channel 5 St. Kitts & Nevis
+rtmp://162.244.81.145:2163/live//livestream
+
+
+#EXTINF:0, ABS TV Antigua & Barbuda
+http://iphone-streaming.ustream.tv/ustreamVideo/18415531/streams/live/playlist.m3u8
+
+#EXTINF:0, TEMPO
+rtmp://cp101680.live.edgefcs.net:1935/live/tempolive@5028
+
+#EXTINF:0, TEMPO (2)
+#rtmp://cp101680.live.edgefcs.net:1935/live playpath=tempolive@5028 swfUrl=http://admin.brightcove.com/viewer/us20150212.1539/federatedVideoUI/BrightcovePlayer.swf live=1 pageUrl=http://gottempo.com
+
+#EXTINF:0, Barbados Parliament
+rtmp://fls.7.c3.audiovideoweb.com/lv/6c3flslive2019
+
+
+
+
+
 
 #EXTINF:0, ABS Television Antigua & Barbuda
 http://iphone-streaming.ustream.tv/ustreamVideo/18415531/streams/live/playlist.m3u8
@@ -84,506 +99,3 @@ http://iphone-streaming.ustream.tv/ustreamVideo/18415531/streams/live/playlist.m
 #EXTINF:0, CBA TV Curaçao
 rtmp://cba-television.tectona-host.com:1935/live playpath=cba-television swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://www.cba2.tv/livestream.html
 
-#EXTINF:0, NGV TV Jamaica
-http://iphone-streaming.ustream.tv/ustreamVideo/7716202/streams/live/playlist.m3u8
-
-#EXTINF:0, Jamaica News (not a dedicated stream)
-http://rjr_flash-lh.akamaihd.net/i/jnn_1@177149/master.m3u8
-
-#EXTINF:0, TV Jamaica (not a dedicated stream)
-http://rjr_flash-lh.akamaihd.net/i/tvj_1@177150/master.m3u8
-
-#EXTINF:0, Reggae Entertainment Television
-http://rjr_flash-lh.akamaihd.net/i/retv_1@177154/master.m3u8
-
-
-
-#EXTINF:0,[COLOR blue] JNN [/COLOR]
-http://univ-i.akamaihd.net/hls/live/222633/HLS11/chunklist.m3u8
-
-#EXTINF:0,[COLOR green] ReTV[/COLOR]
-http://univ-i.akamaihd.net/hls/live/222631/HLS11/chunklist.m3u8
-
-#EXTINF:0,[COLOR yellow] TVJ [/COLOR]
-http://univ-i.akamaihd.net/hls/live/222630/HLS21/chunklist.m3u8?
-
-#EXTINF:0,[COLOR red]CVMTV [/COLOR]
-http://cdnvideo.webvideocore.net/live3ch/out_1vrjj9gj19b4co004os43/index.m3u8
-
-#EXTINF:0,WIN TV TRINIDAD
-http://104.130.121.19:1935/winhdtt/livestream/playlist.m3u8
-
-#EXTINF:0,CTV6TV TRINIDAD
-http://cf.cdn.bimvidlive.com/tv6/ngrp:tv61_all/playlist.m3u8
-
-#EXTINF:0,24/7 HD Movies 1
-http://93.174.95.125:1935/edge/_definst_/asn0crzhq351g0w/playlist.m3u8?wowzasessionid=1420171902
-
-#EXTINF:0,AMC
-http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
-
-#EXTINF:0,BET
-http://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419880467
-
-#EXTINF:0,CBS HD (WHIO 7)
-http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
-
-#EXTINF:0,CNN USA HD
-http://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421
-
-#EXTINF:0,Discovery Channel HD
-http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
-
-#EXTINF:0,Disney Channel
-http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
-
-#EXTINF:0,ESPN HD
-http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-
-#EXTINF:0,ESPN 2 SD
-http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
-
-#EXTINF:0,Food Network
-http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
-
-#EXTINF:0,FOX News HD
-http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
-
-#EXTINF:0,Hallmark HD
-http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
-
-#EXTINF:0,HBO HD
-http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
-
-#EXTINF:0,HBO SD
-http://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309
-
-#EXTINF:0,HGTV
-http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
-
-#EXTINF:0,History Channel (USA)
-http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
-
-#EXTINF:0,MSNBC SD
-http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712
-
-#EXTINF:0,Nat GEO HD
-http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
-
-#EXTINF:0,NBC HD
-http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
-
-#EXTINF:0,Spike
-http://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529
-
-#EXTINF:0,SyFy SD
-http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
-
-#EXTINF:0,TLC
-http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929
-
-#EXTINF:0,TNT HD
-http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
-
-#EXTINF:0,Univision
-http://93.174.95.125:1935/edge/_definst_/obzq3ltrjoaxglf/manifest.m3u8?wowzasessionid=1419908048
-
-#EXTINF:0,USA Network
-http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
-
-#EXTINF:-1,MTV
-http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062
-
-#EXTINF:0,VH-1 SD
-http://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9/manifest.m3u8?wowzasessionid=1420170560
-
-#EXTINF:-1,Cartoon Network
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-
-#EXTINF:-1,CBS
-rtmpe://rtmp.zerocast.tv/goLive playpath=Ger61uLQ4fedzvjRjrB7 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#| tcUrl=
-
-#EXTINF:-1,CBS
-http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048 timeout=15
-
-#EXTINF:-,History Channel
-http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
-
-#EXTINF:-1,FOX 5
-rtmpe://rtmp.zerocast.tv/goLive playpath=9pxGCtP3aEnJYgoBFFH8 swfUrl=http://cdn.ibrod.tv/player/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
-
-#EXTINF:-1,Food Network
-http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
-
-#EXTINF:-1,TBS
-rtmpe://rtmp.zerocast.tv/goLive playpath=RhMi9RdAAt7fpq8H3qZh swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
-
-#EXTINF:-1,TBS
-http://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319
-
-#EXTINF:-1, HBO Plus
-rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe
-
-#EXTINF:-1, Tom and Jerry
-rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
-
-#EXTINF:-1, ABC NEWS
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-
-#EXTINF:-1, CNBC
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
-
-#EXTINF:-1, CNN International
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
-
-#EXTINF:-1, MSNBC
-rtmp://198.255.0.18:443/live?DmDvtZbWkrLVCvguUA208sT0U5yiXYlQ/live_breakingnewsnow
-
-#EXTINF:-1, HSN
-rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
- 
-#EXTINF:-1, HSN 2
-rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31
-
-#EXTINF:-1,News 12 Long Island(Stream 1)
-rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000
-
-#EXTINF:-1,News Bronx(Stream 1)
-rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
-
-#EXTINF:-1,News Bronx(Weather)
-rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
-
-#EXTINF:-1,News Brooklyn(Stream 1)
-rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000
-
-#EXTINF:-1,News Brooklyn(Weather)
-rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
-
-#EXTINF:-1,News Connecticut(Stream 1)
-rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000
-
-#EXTINF:-1,News Connecticut(Weather)
-rtmp://fs-b6e3010000000000.id.cdn.cv.net/vxedge/fs-b6e3010000000000/fs-b6e3010000000000
-
-#EXTINF:-1,News Hudson Valley(Stream 1)
-rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000
-
-#EXTINF:-1,News Hudson Valley(Weather)
-rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
-
-#EXTINF:-1,News Long Island(Stream 2)
-rtmp://fs-b94e110000000000.id.cdn.cv.net/vxedge/fs-b94e110000000000/fs-b94e110000000000
-
-#EXTINF:-1,News Long Island(Weather)
-rtmp://fs-aee3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000/fs-aee3010000000000
-
-#EXTINF:-1,News New Jersey(Stream 1)
-rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
-
-#EXTINF:-1,News New Jersey(Weather)
-rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e3010000000000
-
-#EXTINF:-1,News Westchester(Stream 1)
-rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
-
-#EXTINF:-1,News Westchester(Weather from Hudson Valley)
-rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
-
-#EXTINF:-1, RoswellLive US
-mms://roswell.ecstreams.com/RoswellLive
- 
-#EXTINF:-1, The Florida Channel
-rtmp://webcasting.thefloridachannel.org/live/tvweb1
- 
-#EXTINF:-1, University of California TV
-rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
-
-#EXTINF:-1, TWiT Live
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1,[COLOR yellow]--- Sports ---[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:0, Sports Net 360
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/62.m3u8
-
-#EXTINF:-1, NBC GOLF SD
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
- 
-#EXTINF:-1, NBC GOLF 720p
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
- 
-#EXTINF:-1, NBC GOLF 1080p
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1,NBC Sports Network 1080P
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1,USA Live TV Big Ten Network
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-
-#EXTINF:0,PAC-12 Net. (Arizona)
-http://xrxs.net/video/live-p12ariz-4728.m3u8?
-
-#EXTINF:0,PAC-12 Net. (Bay Area)
-http://xrxs.net/video/live-p12baya-4728.m3u8?
-
-#EXTINF:0,PAC-12 Net. (Los Angeles)
-http://xrxs.net/video/live-p12losa-4728.m3u8?
-
-#EXTINF:0,PAC-12 Net. (Moutain)
-http://xrxs.net/video/live-p12moun-4728.m3u8?
-
-#EXTINF:0,PAC-12 Net. (Oregon)
-http://xrxs.net/video/live-p12oreg-4728.m3u8?
-
-#EXTINF:0,PAC-12 Net. (Washington)
-http://xrxs.net/video/live-p12wash-4728.m3u8?
-
-#EXTINF:-1,USA-BASKET UNI.(Arizona)
-http://xrxs.net/video/live-p12ariz-1164.m3u8
-
-#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
-http://xrxs.net/video/live-p12losa-1164.m3u8
-
-#EXTINF:-1,USA-BASKET UNI.(Moutain)
-http://xrxs.net/video/live-p12moun-1164.m3u8
-
-#EXTINF:-1,USA-BASKET UNI.(Oregon)
-http://xrxs.net/video/live-p12oreg-1164.m3u8
-
-#EXTINF:-1,USA-BASKET UNI.(Washington)
-http://xrxs.net/video/live-p12wash-2328.m3u8
-
-#EXTINF:-1, [COLOR yellow]--- MUSIC ---[/COLOR]
-
-#EXTINF:-1,Vevo1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-
-#EXTINF:-1,Vevo2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-
-#EXTINF:-1,Vevo3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-
-#EXTINF:-1,Kiss Tv Music
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-
-
-#EXTINF:-1, [COLOR blue]---NEWS---[/COLOR]
-
-#EXTINF:-1,ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
- 
-#EXTINF:-1,ABC News (stream 2)
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-
-#EXTINF:-1, CNBC
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
- 
-#EXTINF:1,CNN USA
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
- 
-#EXTINF:-1, Bloomberg
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
-
-#EXTINF:-1, RT America
-http://odna.octoshape.net/f3f5m2v4/cds/ch4_720p/chunklist.m3u8
-
-#EXTINF:-1,News 12 Long Island(Stream 1)
-rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000
- 
-#EXTINF:-1,News Bronx(Stream 1)
-rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
- 
-#EXTINF:-1,News Bronx(Weather)
-rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
- 
-#EXTINF:-1,News Brooklyn(Stream 1)
-rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000
- 
-#EXTINF:-1,News Connecticut(Stream 1)
-rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000
- 
-#EXTINF:-1,News Connecticut(Weather)
-rtmp://fs-b6e3010000000000.id.cdn.cv.net/vxedge/fs-b6e3010000000000/fs-b6e3010000000000
- 
-#EXTINF:-1,News Hudson Valley(Stream 1)
-rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000
- 
-#EXTINF:-1,News Hudson Valley(Weather)
-rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
- 
-#EXTINF:-1,News Long Island(Stream 2)
-rtmp://fs-b94e110000000000.id.cdn.cv.net/vxedge/fs-b94e110000000000/fs-b94e110000000000
- 
-#EXTINF:-1,News Long Island(Weather)
-rtmp://fs-aee3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000/fs-aee3010000000000
- 
-#EXTINF:-1,News New Jersey(Stream 1)
-rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
- 
-#EXTINF:0,News New Jersey(Weather)
-rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e3010000000000
- 
-#EXTINF:0,News Westchester(Stream 1)
-rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
-
-
-#EXTINF:-1,US: CTH Stadium 1 (UK)
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1308.ts
-#EXTINF:-1,US: CTH Stadium 2 (UK)
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1181.ts
-#EXTINF:-1,US: CTH Stadium 3 (UK)
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1513.ts
-#EXTINF:-1,US: CTH Stadium 4 (UK)
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1323.ts
-#EXTINF:-1,US: CTH Stadium 5 (UK)
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/20.ts
-#EXTINF:-1,US: CTH Stadium 6 (UK)
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1754.ts
-#EXTINF:-1,US: Animal Planet HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1562.ts
-#EXTINF:-1,US: ABC NEWS HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1297.ts
-#EXTINF:-1,US: Bein Sports US HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1295.ts
-#EXTINF:-1,US: Discovery Channel HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1190.ts
-#EXTINF:-1,US: ESPN HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1296.ts
-#EXTINF:-1,US: Fox Sports 1 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1037.ts
-#EXTINF:-1,US: Fox Sports 2 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1042.ts
-#EXTINF:-1,US: NBA TV HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1512.ts
-#EXTINF:-1,US: NBC Sports Network HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1307.ts
-#EXTINF:-1,US: TSN 1 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1303.ts
-#EXTINF:-1,US: TSN 2 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1302.ts
-#EXTINF:-1,US: TSN 3 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1299.ts
-#EXTINF:-1,US: TSN 4 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1301.ts
-#EXTINF:-1,US: TSN 5 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1300.ts
-#EXTINF:-1,UK: ITV1 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/884.ts
-#EXTINF:-1,UK: ITV2 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/885.ts
-#EXTINF:-1,UK: ITV3 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/886.ts
-#EXTINF:-1,UK: ITV4 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/887.ts
-#EXTINF:-1,UK: BBC 1 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/859.ts
-#EXTINF:-1,UK: BBC 2 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/860.ts
-#EXTINF:-1,UK: BBC 3 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/861.ts
-#EXTINF:-1,UK: BBC 4 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/862.ts
-#EXTINF:-1,UK: Sky Sports 1 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/910.ts
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/911.ts
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/912.ts
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/909.ts
-#EXTINF:-1,UK: Sky Sports 5 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/913.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/914.ts
-#EXTINF:-1,UK: Sky One HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/908.ts
-#EXTINF:-1,UK: Sky News HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/907.ts
-#EXTINF:-1,UK: Sky Movies Select HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/906.ts
-#EXTINF:-1,UK: Sky Movies Action HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/898.ts
-#EXTINF:-1,UK: Sky Movies Family HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/902.ts
-#EXTINF:-1,UK: Sky Movies Drama HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/901.ts
-#EXTINF:-1,UK: Sky Movies Disney HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/900.ts
-#EXTINF:-1,UK: Sky Movies Comedy HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/899.ts
-#EXTINF:-1,UK: Sky Movies Premiere HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/904.ts
-#EXTINF:-1,UK: Sky Movies Modern Great HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/903.ts
-#EXTINF:-1,UK: Sky Movies Sci-Fi&Horror HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/905.ts
-#EXTINF:-1,UK: SyFy HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/918.ts
-#EXTINF:-1,UK: Sky Art 1
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/920.ts
-#EXTINF:-1,UK: Sky Art 2
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/921.ts
-#EXTINF:-1,UK: Sky Living HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/897.ts
-#EXTINF:-1,UK: Sky Two HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/915.ts
-#EXTINF:-1,UK: Sky Atlantic HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/896.ts
-#EXTINF:-1,UK: Sky Sports News HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1237.ts
-#EXTINF:-1,UK: MUTV HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1670.ts
-#EXTINF:-1,UK: Chelsea FC HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1672.ts
-#EXTINF:-1,UK: LIVERPOOL TV
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/878.ts
-#EXTINF:-1,UK: Box Nation HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/863.ts
-#EXTINF:-1,UK: BTSports 1 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/864.ts
-#EXTINF:-1,UK: BTSports 2 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/865.ts
-#EXTINF:-1,UK: Racing UK HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/892.ts
-#EXTINF:-1,UK: EuroSport 1 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/879.ts
-#EXTINF:-1,UK: Premier Sports HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/891.ts
-#EXTINF:-1,UK: Setanta Sports Ireland HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/895.ts
-#EXTINF:-1,UK: RTE Two HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/894.ts
-#EXTINF:-1,UK: RTE One HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/893.ts
-#EXTINF:-1,UK: MTV Hits HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/888.ts
-#EXTINF:-1,UK : E4
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1469.ts
-#EXTINF:-1,UK: Film 4 HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/881.ts
-#EXTINF:-1,UK: Channel4
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/866.ts
-#EXTINF:-1,UK: Nat Geo HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/889.ts
-#EXTINF:-1,UK: Nat Geo Wild HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/890.ts
-#EXTINF:-1,UK: True Movies 1
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1112.ts
-#EXTINF:-1,UK: HBO COMEDY HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1113.ts
-#EXTINF:-1,UK: History HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/883.ts
-#EXTINF:-1,UK: Nicktoons HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1633.ts
-#EXTINF:-1,UK: Nickelodeon HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/1632.ts
-#EXTINF:-1,UK: Disney Junior HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/874.ts
-#EXTINF:-1,UK: Discovery HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/870.ts
-#EXTINF:-1,UK: Discovery History HD
-http://iptv.euroremix.com:8000/live/Caribbean/Roots/871.ts
